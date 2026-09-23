@@ -316,10 +316,10 @@
 
 /* ───── 설정 탭 ───── */
 .ooc-memo-settings .inline-drawer-content {
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
     padding: 8px 4px;
+}
+.ooc-memo-settings .inline-drawer-content > * + * {
+    margin-top: 12px;
 }
 .ooc-memo-set-row {
     display: flex;
