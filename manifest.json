@@ -1,0 +1,11 @@
+{
+    "display_name": "OOC Memo",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "you",
+    "version": "1.3.2",
+    "homePage": ""
+}
